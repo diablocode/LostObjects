@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "897572180613",
+    "firebase_url": "https://objetos-perdidos-ccf8f-default-rtdb.firebaseio.com",
+    "project_id": "objetos-perdidos-ccf8f",
+    "storage_bucket": "objetos-perdidos-ccf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897572180613:android:91b4bdc1918a6c43bb8fec",
+        "android_client_info": {
+          "package_name": "com.example.lostobjects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2Cl05HGJ3wUgm3uNUqLZPBSL9rWTWVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897572180613:android:da9d928564ba06f7bb8fec",
+        "android_client_info": {
+          "package_name": "com.example.objetosperdidos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2Cl05HGJ3wUgm3uNUqLZPBSL9rWTWVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
